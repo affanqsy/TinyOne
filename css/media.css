@@ -1,0 +1,277 @@
+/*xs` applies to x-small devices*/
+@media  (max-width: 319.98px){
+	.s_text {
+    margin-top: 10px;
+    font-weight
+}
+header{
+		padding-bottom: 8px;
+	}	
+	.s_text h1{
+	font-size: 32px;
+		}
+.s_text h2{
+   	 font-size: 18px;
+	}
+	.s_text p{
+   	 font-size: 14px !important;
+	}
+	.s_icon ul li i{
+    	margin-right: 10px !important;
+    	font-size: 35px;
+	}
+	.c_ind {
+    	bottom: -60px !important;
+	}
+	/*feature*/
+	.c_pad{
+		padding-top: 50px;
+		padding-bottom: 70px;
+	}
+	.c_h1 {
+		margin-bottom: 10px;
+   	 font-size: 25px;
+	}
+	.c_p{
+		font-size: 17px;
+		line-height: 25px;
+	}
+	.f_co{
+		margin-top: 30px;
+	}
+	.f_ic i{
+		font-size: 40px;
+	}
+	.f_tx{
+		text-align: center;
+	}
+	.f_tx h2{
+		font-size: 18px;
+	}
+	.f_tx p{
+		font-size: 12px;
+		margin: 0 20px !important;
+	}
+	.c_form{
+		margin-top: 40px;
+		margin-bottom: 40px;
+	}
+	.c_inpt{
+		padding: 10px 15px;
+		width: 100%;
+		height: 45px;
+	}
+	.c_sbmt{
+		width: 100%;
+		height: 45px;
+	}
+	.c_ico ul li a i{
+		font-size: 35px;
+	}
+	/*footer*/
+	footer{
+		font-size: 10px;
+	}
+	footer a{
+		font-size: 10px;
+	}
+}
+/*xs` applies to x-small devices*/
+@media (min-width: 320px) and (max-width: 575.98px){
+.s_text {
+    margin-top: 10px;
+    font-weight
+}
+header{
+		padding-bottom: 8px;
+	}	
+	.s_text h1{
+	font-size: 32px;
+		}
+.s_text h2{
+   	 font-size: 18px;
+	}
+	.s_text p{
+   	 font-size: 14px !important;
+	}
+	.s_icon ul li i{
+    	margin-right: 10px !important;
+    	font-size: 35px;
+	}
+	.c_ind {
+    	bottom: -60px !important;
+	}
+	/*feature*/
+	.c_pad{
+		padding-top: 50px;
+		padding-bottom: 70px;
+	}
+	.c_h1 {
+		margin-bottom: 10px;
+   	 font-size: 25px;
+	}
+	.c_p{
+		font-size: 17px;
+		line-height: 25px;
+	}
+	.f_co{
+		margin-top: 30px;
+	}
+	.f_ic i{
+		font-size: 40px;
+	}
+	.f_tx{
+		text-align: center;
+	}
+	.f_tx h2{
+		font-size: 18px;
+	}
+	.f_tx p{
+		font-size: 12px;
+		margin: 0 20px !important;
+	}
+	.c_form{
+		margin-top: 40px;
+		margin-bottom: 40px;
+	}
+	.c_inpt{
+		padding: 10px 15px;
+		width: 100%;
+		height: 45px;
+	}
+	.c_sbmt{
+		width: 100%;
+		height: 45px;
+	}
+	.c_ico ul li a i{
+		font-size: 35px;
+	}
+	/*footer*/
+	footer{
+		font-size: 12px;
+	}
+	footer a{
+		font-size: 12px;
+	}
+}	
+/*sm` applies to small devices*/
+@media (min-width: 576px) and (max-width: 767.98px){
+header{
+		padding: 10px 0;
+	}
+	.menu ul li a{
+		padding: 10px 0 0 !important;
+		font-size: 20px;
+		text-align: right;
+	}
+	.slider{
+		padding-bottom: -60px;
+	}	
+	.s_text{
+    	margin-top: 35px;
+	}
+	.c_ind{
+		bottom: -80px;
+	}
+	.c_ind button{
+		width: 13px !important;
+    	height: 13px !important;
+	}
+	/*feature*/
+	.c_pad{
+		padding-top: 50px;	
+		padding-bottom: 70px;
+	}
+	.f_co{
+		margin-top: 30px;
+	}
+	.f_ic i{
+		font-size: 40px;
+	}
+	.f_tx{
+		text-align: center;
+	}
+	.f_tx h2{
+		font-size: 18px;
+	}
+	.f_tx p{
+		font-size: 12px;
+		margin: 0 20px !important;
+	}
+	.c_form{
+		margin-top: 40px;
+		margin-bottom: 40px;
+	}
+	.c_inpt{
+		height: 45px;
+	}
+	.c_sbmt{
+		width: 100%;
+		height: 45px;
+	}
+	.c_ico ul li a i{
+		font-size: 35px;
+	}
+	/*footer*/
+	footer{
+		font-size: 13px;
+	}
+	footer a{
+		font-size: 13px;
+	}
+}
+/*/*md` applies to medium devices*/
+@media (min-width: 768px) and (max-width: 991.98px){
+	.menu ul li a{
+		padding: 10px 0 0 !important;
+		text-align: right;
+	}
+	.s_text{
+		margin-top: 50px;
+	}
+	.s_text h1{	
+		font-size: 32px;
+		font-weight: 700;
+		color: #010101 !important;
+	}
+	.s_text h2{
+		margin: 25px 0;
+		font-size: 20px;
+		font-weight: 400;
+		color: #313841;
+	}
+	.s_text p{
+		font-size: 16px !important;
+		margin-bottom: 35px;
+		color: #555555;
+	}
+	/*feature*/
+	.c_pad{
+		padding-top: 60px;
+		padding-bottom: 80px;
+	}
+	.f_co{
+		margin-top: 50px;
+	}
+	.c_form{
+		margin-top: 40px;
+		margin-bottom: 40px;
+	}
+	.c_ico ul li a i{
+		font-size: 40px;
+	}
+}
+/*lg` applies to large devices*/
+@media (min-width: 992px) and (max-width: 1199.98px){
+	.f_tx p{
+		letter-spacing: 1px;
+	}
+}
+/*xl` applies to extra large devices*/
+@media (min-width: 1200px) and (max-width: 1399.98px){
+
+}
+/*/*xxl` applies to extra x-large devices*/
+@media (min-width: 1400px){
+
+}
